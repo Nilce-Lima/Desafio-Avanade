@@ -1,0 +1,1 @@
+Criar uma API de cursos e professores implementando o GET, POST, PUT e DELETE.
